@@ -1,5 +1,5 @@
 FactoryBot.define do
-  factory :book do
+  factory :book, aliases: [:ruby_microscope] do
     title { "Ruby Under a Microscope" }
     subtitle { "An illustrated guide to Ruby Internals" }
     isbn_10 { "1567348373" }

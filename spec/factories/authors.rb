@@ -10,7 +10,7 @@ FactoryBot.define do
   end
 
   factory :sam_ruby, class: Author do
-    given_name { Sam }
-    family_name { Ruby }
+    given_name { 'Sam' }
+    family_name { 'Ruby' }
   end
 end
