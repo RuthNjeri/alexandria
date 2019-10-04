@@ -1,4 +1,4 @@
-## Alexandria
+## Alexandria Project
 
 An E-commerce website for selling digital books. 
 
